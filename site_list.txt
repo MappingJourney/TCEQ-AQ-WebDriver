@@ -1,0 +1,461 @@
+region|1|Amarillo
+site|Pantex 7 C79|48_065_0007|79
+site|Pantex 4 A104|48_065_0004|104
+site|Pantex 5 A105/A205|48_065_0005|105
+site|Amarillo C305|48_375_0005|305
+site|Amarillo Texas A&M C320|48_375_0320|320
+site|Amarillo 24th Avenue C1025|48_375_1025|1025
+site|Borger FM 1559 C1073|48_233_1073|1073
+site|Amarillo Xcel El Rancho C1077|48_375_1077|1077
+region|2|Lubbock
+site|Lubbock C306|48_303_0001|306
+site|Lubbock C325|48_303_0325|325
+site|Lubbock 12th Street C1028|48_303_1028|1028
+region|3|Abilene
+site|Wichita Falls C315|48_485_0315|315
+site|Wichita Falls TEXAQSII C652|48_485_0652|652
+site|Bowie Patterson Street C1507|48_337_1507|1507
+site|Wichita Falls MWSU C1508|48_485_1508|1508
+site|Abilene North 3rd Street C1509|48_441_1509|1509
+site|Abilene KABI C5015|48_441_5015|5015
+region|4|Dallas-Fort Worth
+site|Dallas North C5|48_113_0045|5
+site|Ft. Worth Northwest C13/AH302 |48_439_1002|13
+site|Keller C17|48_439_2003|17
+site|Frisco  C31/C680|48_085_0005|31
+site|Denton Co. Airport C33 |48_121_0033|33
+site|Midlothian OFW C52/A137|48_139_0016|52
+site|Denton Airport South C56/A163/X157|48_121_0034|56
+site|Arlington Regional Office C57|48_439_0057|57
+site|Dallas Hinton St. C401/C60/AH161 |48_113_0069|60
+site|Arlington Municipal Airport C61|48_439_3011|61
+site|Dallas North No.2 C63/C679|48_113_0075|63
+site|Anna C68|48_085_0010|68
+site|Rockwall Heath C69|48_397_0001|69
+site|Grapevine Fairway C70/A301/X182|48_439_3009|70
+site|Kaufman C71/A304/X071|48_257_0005|71
+site|Granbury C73/C681|48_221_0001|73
+site|Sunnyvale Long Creek C74|48_113_3003|74
+site|Eagle Mountain Lake C75 |48_439_0075|75
+site|Parker County C76|48_367_0081|76
+site|Cleburne Airport C77/C682|48_251_0003|77
+site|Decatur Thompson C88 |48_497_0088|88
+site|Fort Worth Yuma C89/Z400|48_439_0089|89
+site|Midlothian Tower C94/A305/X158|48_139_0015|94
+site|Fort Worth Berry C97/Z401|48_439_0097|97
+site|DFW Airport 2 C132|48_439_3005|132
+site|Boys Club A134|48_113_0057|134
+site|Midlothian OFW C52/A137|48_139_0016|137
+site|Denton Airport South C56/A163/X157|48_121_0034|157
+site|Midlothian Tower C94/A305/X158|48_139_0015|158
+site|Midlothian Tower C94/A305/X158|48_139_0015|160
+site|Dallas Hinton St. C401/C60/AH161 |48_113_0069|161
+site|Denton Airport South C56/A163/X157|48_121_0034|163
+site|Grapevine Fairway C70/A301/X182|48_439_3009|182
+site|Garland Hwy Dept C197|48_113_1006|197
+site|Greenville C1006/A198|48_231_1006|198
+site|Midlothian Wyatt Road C302/A306|48_139_0017|302
+site|Diamond Hill Fort Worth C308|48_439_3008|308
+site|Haws Athletic Center C310|48_439_1006|310
+site|Convention Center C312|48_113_0050|312
+site|Dallas Hinton St. C401/C60/AH161 |48_113_0069|401
+site|Dallas Executive Airport C402|48_113_0087|402
+site|Italy High School C650|48_139_0650|650
+site|Dallas North No.2 C63/C679|48_113_0075|679
+site|Frisco  C31/C680|48_085_0005|680
+site|Granbury C73/C681|48_221_0001|681
+site|Cleburne Airport C77/C682|48_251_0003|682
+site|Greenville C1006/A198|48_231_1006|1006
+site|Flower Mound Shiloh C1007 |48_121_1007|1007
+site|Johnson County Luisa C1008/Z402|48_251_1008|1008
+site|Everman Johnson Park C1009 |48_439_1009|1009
+site|Frisco Eubanks C1010|48_085_0009|1010
+site|Dish Airfield C1013 |48_121_1013|1013
+site|Arlington UT Campus C1018 |48_439_1018|1018
+site|Pilot Point C1032|48_121_1032|1032
+site|Italy C1044/A323|48_139_1044|1044
+site|Corsicana Airport C1051|48_349_1051|1051
+site|Ft Worth California Parkway North C1053|48_439_1053|1053
+site|Kennedale Treepoint Dr C1062 |48_439_1062|1062
+site|Mansfield Flying L Lane C1063 |48_251_1063|1063
+site|Rhome Seven Hills Road C1064 |48_497_1064|1064
+site|Fort Worth Joe B Rushing Road C1065 |48_439_1065|1065
+site|Dallas LBJ Freeway C1067|48_113_1067|1067
+site|Richland Southeast 1220 Road C1081|48_349_1081|1081
+site|Lancaster Cedardale C1500|48_113_1500|1500
+site|Godley FM2331 C1501 |48_251_1501|1501
+site|Mineral Wells 23rd St. C1502|48_363_1502|1502
+site|Fort Worth Benbrook Lake C1503 |48_439_1503|1503
+site|Gainsville Doss Street C1504|48_097_1504|1504
+site|Dallas Elm Fork C1505 |48_113_1505|1505
+site|Weatherford Highway 180 C1506|48_367_1506|1506
+site|Dallas Hinton St. C401/C60/AH161 |48_113_0069|3002
+site|Arlington Airport KGKY C5007|48_439_5007|5007
+site|Denton Airport KDTO C5008|48_121_5008|5008
+site|Corsicana KCRS C5014|48_349_5014|5014
+site|Earhart C9997|48_113_0061|9997
+site|Frisco Stonebrook C9998|48_085_0029|9998
+region|5|Tyler-Longview-Marshall
+site|Longview C19/A127/C644|48_183_0001|19
+site|Cypress River Airport C50|48_315_0050|50
+site|Tyler Airport Relocated C82|48_423_0007|82
+site|Karnack C85/AFHP303|48_203_0002|85
+site|Tyler Airport C86|48_423_0004|86
+site|Longview C19/A127/C644|48_183_0001|127
+site|Winona C133|48_423_0005|133
+site|Longview Big Woods C605|48_183_0002|605
+site|Waskom C612|48_203_0003|612
+site|Panola C627|48_365_0627|627
+site|Longview C19/A127/C644|48_183_0001|644
+site|Wamba NTRD C645|48_037_0645|645
+site|Palestine C647|48_001_0647|647
+site|Clarksville NTRD C648/C668|48_387_0648|648
+site|Clarksville NTRD C648/C668|48_387_0648|668
+site|Texarkana New Boston C1031|48_037_1031|1031
+site|Cookville FM 4855 C1078|48_449_1078|1078
+site|Hallsville Red Oak Road C1079|48_203_1079|1079
+site|Tatum CR 2181d Martin Creek Lake C1082|48_401_1082|1082
+region|6|El Paso-Juarez
+site|El Paso Downtown C6|48_141_0027|6
+site|El Paso UTEP C12/A125/X151/G125|48_141_0037|12
+site|El Paso East C30|48_141_0028|30
+site|El Paso Lower Valley Sounder C36|48_141_0054|36
+site|Ascarate Park SE C37/A332/A172/X159|48_141_0055|37
+site|El Paso Sun Metro C40/AP116|48_141_0053|40
+site|Chamizal C41/AH126 |48_141_0044|41
+site|Socorro Hueco C49/F312|48_141_0057|49
+site|BRAVO Big Bend C67/C316/C656/C691|48_043_0101|67
+site|Skyline Park C72|48_141_0058|72
+site|El Paso Sun Metro C40/AP116|48_141_0053|116
+site|El Paso Womble A123|48_141_0047|123
+site|El Paso UTEP C12/A125/X151/G125|48_141_0037|125
+site|Chamizal C41/AH126 |48_141_0044|126
+site|El Paso UTEP C12/A125/X151/G125|48_141_0037|151
+site|Ascarate Park SE C37/A332/A172/X159|48_141_0055|159
+site|Ascarate Park SE C37/A332/A172/X159|48_141_0055|172
+site|BRAVO Big Bend C67/C316/C656/C691|48_043_0101|316
+site|McDonald Observatory C317|48_243_0004|317
+site|Sul Ross (Alpine) C318|48_043_0002|318
+site|Fort Bliss C324|48_141_0051|324
+site|Tillman C413|48_141_0002|413
+site|Ivanhoe C414/F514|48_141_0029|414
+site|Moon City C415|48_141_0050|415
+site|BRAVO Big Bend C67/C316/C656/C691|48_043_0101|656
+site|Guadalupe Mountain National Park C658|48_109_0658|658
+site|Cd Juarez Advance C661|80_006_0004|661
+site|Cd Juarez 20-30 Club C662|80_006_0006|662
+site|Cd Juarez Delphi C663|80_006_0007|663
+site|BRAVO Big Bend C67/C316/C656/C691|48_043_0101|691
+site|Van Buren Dam C693/F693|48_141_0693|693
+site|El Paso Delta C1011 |48_141_1011|1011
+site|Ojo De Agua C1021/FG121/FG221|48_141_1021|1021
+site|Chamizal C41/AH126 |48_141_0044|3001
+site|Guadalupe Pass KGDP C5018|48_109_5018|5018
+site|El Paso Mimosa C9996|48_141_0038|9996
+region|7|Odessa-Midland
+site|Odessa El Ranchito C14 |48_135_0004|14
+site|Odessa Hays C47/A160 |48_135_0003|47
+site|Odessa Hays C47/A160 |48_135_0003|122
+site|Odessa Gonzales C1014 |48_135_1014|1014
+site|Big Spring Midway C1072|48_227_1072|1072
+site|Odessa Westmark Street C1092 |48_135_1092|1092
+site|Goldsmith Street C1093 |48_135_1093|1093
+region|8|San Angelo
+site|San Angelo KSJT C5016|48_451_5016|5016
+region|9|Waco
+site|Temple C651|48_027_0651|651
+site|Millpond Park San Saba C653|48_411_0653|653
+site|Waco Mazanec C1037|48_309_1037|1037
+site|Temple Georgia C1045|48_027_1045|1045
+site|Killeen Skylark Field C1047|48_027_1047|1047
+site|Rockdale John D. Harper Rd. C1075|48_331_1075|1075
+site|Franklin Oak Grove C1076|48_395_1076|1076
+site|Fairfield FM 2570 Ward Ranch C1084|48_161_1084|1084
+site|Bryan Finfeather Road|48_041_1086|1086
+site|Waco KACT C5010|48_309_5010|5010
+site|College Station KCLL C5011|48_041_5011|5011
+region|10|Beaumont-Port Arthur
+site|Beaumont-Downtown C2/A112/C2002 |48_245_0009|2
+site|West Orange C9/A141|48_361_1001|9
+site|Port Arthur West C28/A128/A228|48_245_0011|28
+site|Carroll St. Park C54/A130|48_245_0020|54
+site|Hamshire C64/C654|48_245_0022|64
+site|Beaumont-Downtown C2/A112/C2002 |48_245_0009|112
+site|Groves A119|48_245_0014|119
+site|Port Arthur West C28/A128/A228|48_245_0011|128
+site|Carroll St. Park C54/A130|48_245_0020|130
+site|City Service Center/PA A131/C2000|48_245_0019|131
+site|Port Neches Avenue L A136|48_245_0017|136
+site|West Orange C9/A141|48_361_1001|141
+site|Port Arthur West C28/A128/A228|48_245_0011|228
+site|Port Arthur Memorial School C303/C689|48_245_0021|303
+site|SETRPC Mauriceville 42 C642/C311/C665|48_361_1100|311
+site|SETRPC Port Arthur C628|48_245_0628|628
+site|Newton NTRD C639|48_351_0639|639
+site|SETRPC 40 Sabine Pass C640/C1654|48_245_0101|640
+site|SETRPC Mauriceville 42 C642/C311/C665|48_361_1100|642
+site|SETRPC 43 Jefferson Co Airport C643|48_245_0102|643
+site|San Augustine Airport NTRD C646|48_405_0646|646
+site|Hamshire C64/C654|48_245_0022|654
+site|SETRPC Mauriceville 42 C642/C311/C665|48_361_1100|665
+site|Port Arthur Memorial School C303/C689|48_245_0021|689
+site|Jefferson Co Airpt C1019/A317 |48_245_0018|1019
+site|C1027-Alabama-Coushatta-TX|48_373_9001|1027
+site|Nederland High School C1035 |48_245_1035|1035
+site|Beaumont Mary C1050/A331|48_245_1050|1050
+site|Port Arthur West 7th Street C1071|48_245_1071|1071
+site|Orange 1st Street C1083|48_361_1083|1083
+site|SETRPC Port Arthur C628|48_245_0628|1628
+site|SETRPC 40 Sabine Pass C640/C1654|48_245_0101|1654
+site|City Service Center/PA A131/C2000|48_245_0019|2000
+site|Jefferson Co Airpt C1019/A317 |48_245_0018|2001
+site|Beaumont-Downtown C2/A112/C2002 |48_245_0009|2002
+site|Lufkin KLFK C5013|48_005_5013|5013
+region|11|Austin
+site|Austin North Hills Drive C3/A322|48_453_0014|3
+site|Parmer Lane C25|48_453_0003|25
+site|Austin Downtown C32|48_453_0017|32
+site|Audubon C38|48_453_0020|38
+site|San Marcos Airport Dr C62|48_055_0062|62
+site|Austin Webberville Road AF171|48_453_0021|171
+site|Burnet County Hospital C322|48_053_0322|322
+site|Zavala C326|48_453_0326|326
+site|Fayette County C601|48_149_0001|601
+site|Pflugerville Wastewater C613|48_453_0613|613
+site|Dripping Springs School C614|48_209_0614|614
+site|CAPCOG Round Rock C674|48_491_0674|674
+site|CAPCOG San Marcos C675|48_209_0675|675
+site|CAPCOG McKinney Roughs C684|48_021_0684|684
+site|CAPCOG Lake Georgetown C690|48_491_0690|690
+site|Austin 5th Street C1026|48_453_1026|1026
+site|Austin North Interstate 35 C1068|48_453_1068|1068
+site|Jarrell FM 487 C1094|48_491_1094|1094
+site|Gorzycki Middle School C1603|48_453_1603|1603
+site|Lockhart C1604|48_055_1604|1604
+site|St. Edwards University C1605|48_453_1605|1605
+site|CAPCOG Bastrop CAMS1612|48_021_1612|1612
+site|CAPCOG Elgin C1613|48_021_1613|1613
+site|CAPCOG East Austin C1619|48_453_1619|1619
+site|CAPCOG San Marcos Staples Road C1675|48_209_1675|1675
+site|Camp Mabry KATT C5001/C5002|48_453_5001|5001
+site|Camp Mabry KATT C5001/C5002|48_453_5001|5002
+site|Austin Bergstrom KAUS C5003|48_453_5003|5003
+site|Burnet County Airport KBMQ C5009|48_053_5009|5009
+site|CAPCOG Hutto College Street C6602|48_491_6602|6602
+region|12|Houston-Galveston-Brazoria
+site|Houston East C1/G316|48_201_1034|1
+site|Houston Aldine C8/AF108/X150 |48_201_0024|8
+site|Texas City C10|48_167_1002|10
+site|Clute C11/A111|48_039_1003|11
+site|Channelview C15/AH115 |48_201_0026|15
+site|Houston Deer Park C18|48_201_1003|18
+site|Houston Manchester C22|48_201_0059|22
+site|Northwest Harris Co. C26/A110/X154|48_201_0029|26
+site|Galveston Airport C34/A109/X152|48_167_0014|34
+site|Hou.DeerPrk2 C35/235/1001/AFH139FP239|48_201_1039|35
+site|Seabrook Friendship Park C45|48_201_1050|45
+site|Houston Wharton C48|48_201_0068|48
+site|Ellington Field C51|48_201_1040|51
+site|Houston Bayland Park C53/A146 |48_201_0055|53
+site|Clinton C403/C304/AH113 |48_201_1035|55
+site|Conroe C65|48_339_0089|65
+site|Conroe Relocated C78/A321|48_339_0078|78
+site|Houston Regional Office C81|48_201_0070|81
+site|Manvel Croix Park C84|48_039_1004|84
+site|Smith Point Hawkins Camp C96/C638|48_071_0013|96
+site|Nessler Pool A100|48_167_0053|100
+site|Houston Aldine C8/AF108/X150 |48_201_0024|108
+site|Galveston Airport C34/A109/X152|48_167_0014|109
+site|Northwest Harris Co. C26/A110/X154|48_201_0029|110
+site|Clinton C403/C304/AH113 |48_201_1035|113
+site|HRM-3 Haden Road C603/A114 |48_201_0803|114
+site|Channelview C15/AH115 |48_201_0026|115
+site|Hou.DeerPrk2 C35/235/1001/AFH139FP239|48_201_1039|139
+site|Shore Acres A145|48_201_0061|145
+site|Houston Bayland Park C53/A146 |48_201_0055|146
+site|Texas City Ball Park A147/C1022|48_167_0005|147
+site|Baytown A148|48_201_0058|148
+site|Houston Aldine C8/AF108/X150 |48_201_0024|150
+site|Galveston Airport C34/A109/X152|48_167_0014|152
+site|Northwest Harris Co. C26/A110/X154|48_201_0029|154
+site|Lynchburg Ferry C1015/A165 |48_201_1015|165
+site|San Jacinto Monument C166/C245|48_201_1041|166
+site|Galena Park A1667 |48_201_0057|167
+site|Houston Milby Park A169 |48_201_0069|169
+site|Cesar Chavez C1020/175 |48_201_6000|175
+site|Houston Bayland Park C53/A146 |48_201_0055|181
+site|Hou.DeerPrk2 C35/235/1001/AFH139FP239|48_201_1039|235
+site|Port of Houston (Fuel Cell) C240|88_801_0240|240
+site|La Porte Airport C243|48_201_1043|243
+site|San Jacinto Monument C166/C245|48_201_1041|245
+site|Clinton C403/C304/AH113 |48_201_1035|304
+site|Kingwood C309|48_201_1042|309
+site|Clinton C403/C304/AH113 |48_201_1035|403
+site|Houston Kirkpatrick C404|48_201_0060|404
+site|Houston North Wayside C405|48_201_0046|405
+site|Houston Monroe C406|48_201_0062|406
+site|Houston Crawford C407|48_201_1037|407
+site|Lang C408|48_201_0047|408
+site|Houston Croquet C409|48_201_0051|409
+site|Houston Westhollow C410|48_201_0066|410
+site|Houston Texas Avenue C411|48_201_0075|411
+site|Park Place C416|48_201_0416|416
+site|Sheldon C551|48_201_0551|551
+site|Baytown Wetlands Center C552|48_201_0552|552
+site|Crosby Library C553|48_201_0553|553
+site|West Houston C554|48_201_0554|554
+site|Kingwood Library C555|48_201_0555|555
+site|La Porte Sylvan Beach C556|48_201_0556|556
+site|Mercer Arboretum C557|48_201_0557|557
+site|Tom Bass C558|48_201_0558|558
+site|Katy Park C559|48_201_0559|559
+site|Atascocita C560|48_201_0560|560
+site|Meyer Park C561|48_201_0561|561
+site|Bunker Hill Village C562|48_201_0562|562
+site|Huffman Wolf Road C563|48_201_0563|563
+site|Clear Brook High School C570|48_201_0570|570
+site|Clear Creek High School C571|48_167_0571|571
+site|Clear Lake High School C572|48_201_0572|572
+site|HRM-3 Haden Road C603/A114 |48_201_0803|603
+site|HRM-4 Sheldon Rd C604|48_201_0804|604
+site|HRM-8 LaPorte C608|48_201_0808|608
+site|HRM-10 Mont Belvieu C610|48_071_0900|610
+site|HRM-11 E Baytown C611|48_071_0901|611
+site|Texas City BP 31st St. C615/C1615|48_167_0615|615
+site|Texas City BP Onsite C616/C1616|48_167_0616|616
+site|Wallisville Road C617 |48_201_0617|617
+site|Danciger C618 |48_039_0618|618
+site|Mustang Bayou C619 |48_039_0619|619
+site|Texas City 34th St. C620 |48_167_0056|620
+site|Texas City BP Logan St. C621/C1621|48_167_0621|621
+site|Smith Point Hawkins Camp C96/C638|48_071_0013|638
+site|Texas Petrochemicals FTIR South C669|48_201_0669|669
+site|Texas Petrochemicals FTIR North C670|48_201_0670|670
+site|Goodyear Houston Site C671|48_201_0671|671
+site|Pasadena AAMS C672|48_201_0672|672
+site|Goodyear Houston Site 2 C673|48_201_0673|673
+site|Texas City 11th St. C683|48_167_0683|683
+site|Pasadena AAMS C688|48_201_0688|688
+site|UH Moody Tower C695|48_201_0695|695
+site|U of H-Sugarland C696|48_157_0696|696
+site|UH Coastal Center C697|48_167_0697|697
+site|UH WG Jones Forest C698|48_339_0698|698
+site|UH West Liberty C699|48_291_0699|699
+site|Hou.DeerPrk2 C35/235/1001/AFH139FP239|48_201_1039|1001
+site|Freeport South Avenue I C1012|48_039_1012|1012
+site|Lynchburg Ferry C1015/A165 |48_201_1015|1015
+site|Lake Jackson C1016 |48_039_1016|1016
+site|Baytown Garth C1017|48_201_1017|1017
+site|Cesar Chavez C1020/175 |48_201_6000|1020
+site|Texas City Ball Park A147/C1022|48_167_0005|1022
+site|Manchester C1029/A307/E307|48_201_0307|1029
+site|Channelview North C1030/A309|48_201_0030|1030
+site|Galveston 99th St. C1034/A320/X183|48_167_1034|1034
+site|Jacinto Port C1036/A318|48_201_0036|1036
+site|Pasadena North C1049/A330|48_201_1049|1049
+site|Houston North Loop C1052|48_201_1052|1052
+site|Houston Hartwick C1054|48_201_1054|1054
+site|Houston Southwest Freeway C1066|48_201_1066|1066
+site|UH Smith Point C1606|48_071_1606|1606
+site|Oyster Creek C1607 |48_039_1607|1607
+site|Freeport North Fenceline C1608|48_039_1608|1608
+site|UH Launch Trailer C1611|48_201_1611|1611
+site|Texas City BP 31st St. C615/C1615|48_167_0615|1615
+site|Texas City BP Onsite C616/C1616|48_167_0616|1616
+site|Texas City BP Logan St. C621/C1621|48_167_0621|1621
+site|Galveston C2003|88_167_2003|2003
+site|Hou.DeerPrk2 C35/235/1001/AFH139FP239|48_201_1039|3000
+site|Galveston Airport KGLS C5005|48_167_5005|5005
+site|Conroe Airport KCXO C5006|48_339_5006|5006
+site|Huntsville KUTS C5012|48_471_5012|5012
+site|Texas City Fire Station C9995|48_167_0004|9995
+region|13|San Antonio
+site|San Antonio North C7|48_029_0036|7
+site|San Antonio Northwest C23|48_029_0032|23
+site|San Antonio Downtown C27|48_029_0046|27
+site|Camp Bullis C58 |48_029_0052|58
+site|Calaveras Lake C59|48_029_0059|59
+site|San Antonio Seale A140|48_029_0051|140
+site|Selma C301|48_029_0053|301
+site|Elm Creek Elementary C501|48_029_0501|501
+site|Fair Oaks Ranch C502|48_029_0502|502
+site|Bulverde Elementary C503|48_091_0503|503
+site|New Braunfels Airport C504|48_187_0504|504
+site|City of Garden Ridge C505|48_091_0505|505
+site|Seguin Outdoor Learning Center C506|48_187_0506|506
+site|Heritage Middle School C622|48_029_0622|622
+site|Gardner Rd. Gas Sub-Station C623|48_029_0623|623
+site|Gate 9A CPS C625|48_029_0625|625
+site|Gate 58 CPS C626|48_029_0626|626
+site|Palo Alto C676|48_029_0676|676
+site|Old Highway 90 C677/A319|48_029_0677|677
+site|CPS Pecan Valley C678|48_029_0055|678
+site|Floresville Hospital Blvd C1038 |48_493_1038|1038
+site|San Antonio IH 35 C1069|48_029_1069|1069
+site|Karnes County C1070 |48_255_1070|1070
+site|San Antonio Gardner Road C1080|48_029_1080|1080
+site|San Antonio Bulverde Parkway|48_029_1087|1087
+site|New Braunfels Oak Run Parkway|48_091_1088|1088
+site|Von Ormy Highway 16 C1090|48_013_1090|1090
+site|San Antonio Red Hill Lane C1091|48_029_1091|1091
+site|Calaveras Lake Park C1609|48_029_1609|1609
+site|Government Canyon C1610|48_029_1610|1610
+site|New Braunfels Airport KBAZ C5004|48_187_5004|5004
+region|14|Corpus Christi-Victoria
+site|Corpus Christi West C4|48_355_0025|4
+site|Corpus Christi Tuloso C21|48_355_0026|21
+site|Corpus Christi Palm C83 |48_355_0083|83
+site|Victoria C87|48_469_0003|87
+site|Corpus Christi Huisache C98/A155|48_355_0032|98
+site|Corpus Navigation C121|48_355_0020|121
+site|Corpus Christi Huisache C98/A155|48_355_0032|149
+site|Corpus Christi Huisache C98/A155|48_355_0032|155
+site|Corpus Poth C164|48_355_0030|164
+site|Corpus Hillcrest A170/A168|48_355_0029|168
+site|Corpus Hillcrest A170/A168|48_355_0029|170
+site|Corpus Hillcrest A170/A168|48_355_0029|195
+site|Dona Park C635/AF199/F299|48_355_0034|199
+site|National Seashore C314|48_273_0314|314
+site|Victoria Rabbit Run C602|48_469_0004|602
+site|Inez C609|48_469_0609|609
+site|Coleto C624|48_175_0624|624
+site|Port Grain Elevator C629|48_355_0036|629
+site|J.I. Hailey C630|48_355_0037|630
+site|Inner Harbor C631|48_355_0038|631
+site|FHR Easement C632|48_355_0039|632
+site|Solar Estates C633 |48_355_0041|633
+site|Oak Park C634 |48_355_0035|634
+site|Dona Park C635/AF199/F299|48_355_0034|635
+site|Beeville Airport C641|48_025_0641|641
+site|Hallettsville C649|48_285_0649|649
+site|Port O Connor C657|48_057_0657|657
+site|Aransas Pass C659|48_409_0659|659
+site|Holly Road C660|48_355_0660|660
+site|Violet C664|48_355_0664|664
+site|Ingleside C685|48_409_0685|685
+site|Odem C686|48_409_0686|686
+site|Taft C687|48_409_0687|687
+site|Williams Park C1024/E308|48_355_1024|1024
+site|Cuero C1602|48_123_1602|1602
+region|15|Lower Rio Grande Valley
+site|Edinburg C42/AP142|48_215_0042|42
+site|Mission C43/AP143|48_215_0043|43
+site|Brownsville C80/AGP180|48_061_0006|80
+site|Edinburg C42/AP142|48_215_0042|142
+site|Mission C43/AP143|48_215_0043|143
+site|Brownsville C80/AGP180|48_061_0006|180
+site|Isla Blanca Park C323/C667|48_061_2004|323
+site|Isla Blanca Park C323/C667|48_061_2004|667
+site|Harlingen Teege C1023|48_061_1023|1023
+site|Edinburg East Freddy Gonzalez Dr C1046|48_215_1046|1046
+site|Mercedes C1048/A310|48_215_1048|1048
+region|16|Laredo
+site|Laredo Vidaurri C44/AFGP144/P244|48_479_0016|44
+site|Laredo Bridge C66/AF173|48_479_0017|66
+site|Laredo Vidaurri C44/AFGP144/P244|48_479_0016|144
+site|Laredo Bridge C66/AF173|48_479_0017|173
+site|World Trade Bridge C313|48_479_0313|313
+site|Eagle Pass C319/C655|48_323_0004|319
+site|Lake Amistad C321|48_465_0003|321
+site|Eagle Pass C319/C655|48_323_0004|655
+site|Del Rio KDRT C5017|48_465_5017|5017
